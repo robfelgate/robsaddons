@@ -1,8 +1,3 @@
-#!/bin/bash
-sed -e
+#!/usr/bin/with-contenv bashio
 
-CONFIG_PATH=/data/options.json
-
-DEVICE=$(jq --raw-output ".device" $CONFIG_PATH)
-
-echo "We can now make coffee on device: $DEVICE"
+echo Hello world!
