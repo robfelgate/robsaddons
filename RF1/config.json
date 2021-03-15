@@ -1,11 +1,11 @@
 {
-  "name": "Coffee Maker",
-  "version": "1.2",
-  "slug": "coffee_maker",
+  "name": "Robs First Add On",
+  "version": "1",
+  "slug": "hello_world",
+  "description": "My first real add-on!",
   "arch": ["armhf", "armv7", "aarch64", "amd64", "i386"],
-  "description": "Expose a web frontend to control my coffee maker",
+  "startup": "application",
   "boot": "auto",
-  "ports": {
-    "80/tcp": 8080
-  }
+  "options": {},
+  "schema": {}
 }
