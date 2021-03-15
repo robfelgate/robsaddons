@@ -1,6 +1,6 @@
 {
-  "name": "Sync",
-  "version": "0.4",
+  "name": "Sync2",
+  "version": "0.5",
   "slug": "sync",
   "description": "Sync config files over sftp",
   "startup": "once",
