@@ -5,4 +5,4 @@ This patch release addresses that.
 
 ## ⬆️ Dependency updates
 
-- Upgrade add-on base image to 9.0.1 @frenck (#31)
+
