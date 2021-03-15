@@ -1,7 +1,7 @@
 {
   "name": "Robs First Add On",
-  "version": "0.0.1",
-  "slug": "example",
+  "version": "0.0.2",
+  "slug": "example,
   "description": "Example add-on by Rob Felgate",
   "url": "https://github.com/robfelgate/robsaddons/",
   "init": false,
